@@ -1,0 +1,38 @@
+
+
+body{
+  background-color: #FBF9F1;
+  font-size: 20px;
+  margin-left: 175px;
+  margin-right: 175px;
+  padding-left: 6px;
+  padding-right: 6px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  line-height: 1.25;
+  box-sizing: border-box;
+
+}
+h1 {
+  font-weight: lighter;
+}
+
+.background {
+  background-color: black;
+  color: white;
+  font-family: "Geneva";
+  padding: 4px;
+  font-weight:lighter;
+}
+.underline {
+  text-decoration: underline;
+  font-family: "Georgia";
+  font-weight: lighter;
+}
+h3{
+  font-family: "Georgia";
+  font-size: .25;
+}
+.blueprint {
+  color: #77A8D2;
+}

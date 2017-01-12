@@ -1,0 +1,29 @@
+body {
+  font-family: "futura";
+}
+
+h5 {
+  border-top: 2px black solid;
+  border-bottom: 2px black solid;
+  padding: 20px 6px;
+  color: grey;
+  text-align: center;
+  font-weight:100;
+}
+
+ul {
+ display: inline-block;
+ color: white;
+ background-color: rgb(205,92,92);
+ padding: 4px 9px;
+ margin-top: 2px;
+ margin-bottom: 2px;
+ margin-left: 5px;
+ margin-right: 0;
+ font-size: 15px;
+}
+
+h6 {
+  color: grey;
+  text-align: right;
+}
